@@ -1,0 +1,2 @@
+1. Sleep 20 sec is not allowed in UI thread , should be limited to under 5 seconds
+2. unsigned int * x = 0x12345678, we are using a user defined address but that address may not belong to our program, so we get crash in accessing (read & write) from this address.
