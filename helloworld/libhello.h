@@ -1,3 +1,3 @@
 
 #include<stdio.h>
-void hello_dynamic();
+void hello_static();

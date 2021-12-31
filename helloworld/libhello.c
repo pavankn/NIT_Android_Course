@@ -1,6 +1,7 @@
 #include "libhello.h"
-void hello_dynamic()
+
+void hello_static()
 {
-	printf("Hello Dynamic Library \n");
+	printf("Hello Static Library \n");
 }
 

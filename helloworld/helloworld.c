@@ -2,8 +2,8 @@
 
 int main()
 {
-	//hello_static();
-	hello_dynamic();
+	
+	hello_static();
 	return 0;
 }
 
